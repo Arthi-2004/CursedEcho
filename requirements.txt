@@ -1,9 +1,5 @@
 streamlit==1.39.0
-transformers
-torch
-playsound
 pydub
-ffmpeg-python
 numpy
-sentencepiece
+
 
